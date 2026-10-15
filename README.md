@@ -26,15 +26,18 @@
 
 ### ⚡ About Me
 
-<img align="right" width="340" alt="Cyberpunk Coding Setup" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" width="240" alt="Developer Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 ```yaml
 Name: Josué de Jesús Ortiz Vela
-Role: Full Stack Software Engineer / Systems Architect
-Location: Xalapa, Veracruz, Mexico (Available Worldwide Remote)
+Role: Full Stack Software Engineer / Architect
+Location: Xalapa, Veracruz, Mexico (Remote)
 Education: B.S. in Mechatronics Engineering
 Current: Full Stack Developer @ Clevercloud
-Focus: Headless Web Architectures, Distributed Systems, Real-Time Networking, Cloud & DevOps
+Focus:
+  - Headless Web & Decoupled APIs
+  - Distributed & Real-Time Systems
+  - Cloud Infrastructure & AI
 ```
 
 > **`SYSTEM_LOG:`** Initializing profile...  
