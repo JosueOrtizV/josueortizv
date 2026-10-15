@@ -22,11 +22,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img width="180" alt="Developer Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### ⚡ About Me
-
-<img align="right" width="240" alt="Developer Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 ```yaml
 Name: Josué de Jesús Ortiz Vela
@@ -49,8 +51,6 @@ Focus:
 - 🎙️ **Autonomous Cloud & AI Systems:** Architected **RecordingBot** ([recordingbot.josueortiz.dev](https://recordingbot.josueortiz.dev)), an enterprise meeting intelligence assistant with headless Chromium workers, PulseAudio/FFmpeg AV capture, and Google Gemini AI executive summaries.
 - 🎮 **Real-Time Systems:** Built **VoxelRave**, a multiplayer 3D voxel rhythm engine featuring an authoritative 20 ticks/s server, R3F 60 FPS graphics, and agentic AI asset generation via MCP protocols.
 - 🐳 **DevOps & Automation:** Containerizing production environments with Docker Compose, automating reverse proxies with Caddy SSL, building Playwright web automation pipelines, and enforcing CI/CD via GitHub Actions.
-
-<br clear="both" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
