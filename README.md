@@ -22,16 +22,18 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### ⚡ About Me
+
+<img align="right" width="340" alt="Cyberpunk Coding Setup" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ```yaml
 Name: Josué de Jesús Ortiz Vela
 Role: Full Stack Software Engineer / Systems Architect
 Location: Xalapa, Veracruz, Mexico (Available Worldwide Remote)
 Education: B.S. in Mechatronics Engineering
-Current: Full Stack Developer Jr @ Clevercloud
+Current: Full Stack Developer @ Clevercloud
 Focus: Headless Web Architectures, Distributed Systems, Real-Time Networking, Cloud & DevOps
 ```
 
@@ -45,7 +47,9 @@ Focus: Headless Web Architectures, Distributed Systems, Real-Time Networking, Cl
 - 🎮 **Real-Time Systems:** Built **VoxelRave**, a multiplayer 3D voxel rhythm engine featuring an authoritative 20 ticks/s server, R3F 60 FPS graphics, and agentic AI asset generation via MCP protocols.
 - 🐳 **DevOps & Automation:** Containerizing production environments with Docker Compose, automating reverse proxies with Caddy SSL, building Playwright web automation pipelines, and enforcing CI/CD via GitHub Actions.
 
----
+<br clear="both" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Technical Stack & Tooling
 
@@ -96,29 +100,20 @@ Focus: Headless Web Architectures, Distributed Systems, Real-Time Networking, Cl
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Featured Engineering Projects
 
 | Project | Highlights & Architecture | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
 | **🎙️ RecordingBot** | **Autonomous Meeting Intelligence Platform:** Dispatches headless Chromium workers (Puppeteer/CDP) with PulseAudio virtual sinks & FFmpeg for high-definition Google Meet capture. Injects DOM `MutationObserver` for real-time closed captions and speaker diarization, automatically generating executive minutes via **Google Gemini AI**. Multi-tenant dashboard with PostgreSQL 16, Redis queue, and HTTP 206 media streaming. | `React 18` `Node.js` `Puppeteer` `PostgreSQL` `Redis` `Gemini AI` `Docker` | [🌐 Live Demo](https://recordingbot.josueortiz.dev) · [📦 Repo](https://github.com/JosueOrtizV/RecordingBot) |
-| **⚡ VoxelRave** | **Real-Time 3D Multiplayer Engine:** Authoritative VPS game loop (20 ticks/s) with lag compensation, React Three Fiber `InstancedMesh` rendering (single draw-call, 60 FPS), Zustand/Immer state sync, HMAC anti-cheat security, and agentic AI 3D asset generation via MCP. | `Next.js` `R3F` `Fastify` `Socket.io` `Zustand` `MCP` | [📦 Repo](https://github.com/JosueOrtizV/MusicalGame) |
+| **⚡ VoxelRave** | **Real-Time 3D Multiplayer Engine:** Authoritative VPS game loop (20 ticks/s) with lag compensation, React Three Fiber `InstancedMesh` rendering (single draw-call, 60 FPS), Zustand/Immer state sync, HMAC anti-cheat security, and agentic AI 3D asset generation via MCP. | `Next.js` `R3F` `Fastify` `Socket.io` `Zustand` `MCP` | [🌐 Live Site](https://voxelrave.com/) · [📦 Repo](https://github.com/JosueOrtizV/MusicalGame) |
 | **🎓 CETEC Xalapa** | **Decoupled Headless Educational Platform:** High-impact business architecture powering real educational growth. Integrated Google Gemini API for administrative content automation. Ranked **Top 10 Google Search** (11,100+ monthly impressions, 0.4% bounce rate). | `Next.js 15` `Laravel 12` `Gemini API` `Tailwind` `SSR/SSG` | [🌐 Live Site](https://cetecxalapa.com) · [💼 Case Study](https://josueortiz.dev) |
-| **🤖 Stickerity** | **Browser Automation & Media Pipeline:** Server-side engine using Playwright to render complex dynamic DOMs and intercept encrypted media assets. Media pipeline with `fluent-ffmpeg` & `sharp` (<500kb binary WebP). Packaged in Docker Compose with Caddy auto-SSL and automated CI/CD. | `React 19` `Fastify` `Playwright` `Docker` `Caddy` `CI/CD` | [📦 Repo](https://github.com/JosueOrtizV/Stickerity) |
+| **🤖 Stickerity** | **Browser Automation & Media Pipeline:** Server-side engine using Playwright to render complex dynamic DOMs and intercept encrypted media assets. Media pipeline with `fluent-ffmpeg` & `sharp` (<500kb binary WebP). Packaged in Docker Compose with Caddy auto-SSL and automated CI/CD. | `React 19` `Fastify` `Playwright` `Docker` `Caddy` `CI/CD` | [🌐 Live Site](https://stickerity.app/) · [📦 Repo](https://github.com/JosueOrtizV/Stickerity) |
 | **🧠 Daily Code Challenge** | **AI-Powered Gamified EdTech:** Procedurally generated programming challenges via Google Gemini API. Migrated REST API from Node.js to Laravel 11, combining MongoDB for flexible problem storage with Redis for low-latency live caching. | `Angular` `Laravel 11` `MongoDB` `Redis` `Gemini API` | [📦 Client Repo](https://github.com/JosueOrtizV/daily-code-challenge) · [📦 API Repo](https://github.com/JosueOrtizV/daily-code-challenge-api) |
 | **⚔️ The Echo Warden** | **Systems Architecture & Game AI (ECS):** 43+ custom Java systems built on Entity Component System paradigm. Dynamic multiplayer boss health scaling algorithm, asynchronous disk persistence for offline health recovery, and Combat Action Evaluator AI. | `Java` `ECS Architecture` `Networking` `Game AI` | [📦 Repo](https://github.com/JosueOrtizV/JO.The-Echo-Warden) |
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueOrtizV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Josue's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueOrtizV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🤝 Let's Connect
 
