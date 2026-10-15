@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇺🇸 English</b> | <a href="https://github.com/JosueOrtizV/josueortizv/blob/main/README.es.md">🇲🇽 Versión en Español</a>
+</p>
+
 <h1 align="center">Hi, I'm Josué Ortiz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Full Stack Software Engineer & Mechatronics Engineer</h3>
 
